@@ -43,8 +43,6 @@ var developements = {
     <a href="https://developer.android.com/studio" target="_blank" title ="android studio"> <img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
             alt="android studio" width="40" height="40" /> </a>
-    
-    
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -96,10 +94,7 @@ var developements = {
             src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
             alt="tkinter" width="40" height="40" /> </a>
 
-
-
 </p>
 
 
 
-# chintan0539
