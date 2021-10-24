@@ -55,17 +55,14 @@ var developements = {
     <a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>
-
     <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-    
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
             alt="java" width="40" height="40" /> </a>
@@ -93,7 +90,6 @@ var developements = {
     <a href="https://wiki.python.org/moin/TkInter" target="_blank" title ="Tkinter"> <img
             src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
             alt="tkinter" width="40" height="40" /> </a>
-
 </p>
 
 
